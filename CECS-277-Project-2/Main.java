@@ -1,13 +1,5 @@
 import java.util.Random;
 
-/**
- * 
- * The main will mainly control the flow 
- * of the pokemon game from the beginning 
- * to the end 
- * @author Spencer Chuong, Hadi Al Lawati, Kenneth Nguyen
- *
- */
 class Main {
   public static void main(String[] args) {
     System.out.println("Prof. Oak: Hello there new trainer,\nwhat is your name?");
